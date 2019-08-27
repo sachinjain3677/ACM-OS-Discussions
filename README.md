@@ -13,4 +13,4 @@
 
 **Resources**
 
-1 https://github.com/cfenollosa/os-tutorial
+[1] https://github.com/cfenollosa/os-tutorial
